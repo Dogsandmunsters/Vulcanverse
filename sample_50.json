@@ -1,0 +1,1444 @@
+{
+  "1": {
+    "section": 1,
+    "book": 1,
+    "outgoing_refs": [
+      30,
+      114,
+      393,
+      667
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "In your waking moments you rarely think of your early life. The world is harsh, drawing a stark line between the quick and the dead, and so there is little time for idle reverie.\n\nBut when you sleep and your soul becomes unpinned from your body, time is a river that can flow both ways. Sometimes you"
+  },
+  "2": {
+    "section": 2,
+    "book": 1,
+    "outgoing_refs": [
+      113,
+      548,
+      745
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You release the **bronze butterfly** into the air. It flutters up, and begins to glow ever so slightly. It'll need time to fire up properly.\n\nWhat does it say?\n\n'Man is but the dream of the butterfly.' goto [**548**](#_548)\n\n'Eat my nuts, losers!' goto [**745**](#_745)\n\n'Float like a butterfly, stin"
+  },
+  "3": {
+    "section": 3,
+    "book": 1,
+    "outgoing_refs": [
+      51,
+      228,
+      273,
+      765
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "The Acheron river, the river of woe, runs all the way up to its headwaters in the far northern mountains of Hades. It flows slowly into the delta, its waters the colour of twilight, a kind of bluish grey, infused with a strange, starry glow, as if moonbeams were trapped forever on the riverbed.\n\nYou"
+  },
+  "4": {
+    "section": 4,
+    "book": 1,
+    "outgoing_refs": [
+      76,
+      221
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You approach the sculpted portico of the mausoleum. It is pale yellow in colour, and somehow untouched by age, as if it were newly erected. There is a low entrance at the bottom of the portico, with an inscription nearby. It reads:\n\n'a maid of gold am i. i mark the grave of midas. while the black wa"
+  },
+  "5": {
+    "section": 5,
+    "book": 1,
+    "outgoing_refs": [
+      25,
+      51,
+      228,
+      504,
+      537
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Cross the item off your Adventure Sheet. Wolfshadow is chasing you down - you throw the item in his path, and, thank the gods, it works. He stops to feed, and you are able to make your escape. Will you go:\n\nNorth goto [**51**](#_51)\n\nSouth goto [**537**](#_537)\n\nWest goto [**228**](#_228)\n\nSouth-eas"
+  },
+  "6": {
+    "section": 6,
+    "book": 1,
+    "outgoing_refs": [
+      234
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [
+      {
+        "op": "gain",
+        "title": "the Liberator"
+      }
+    ],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Prometheus leans down towards you. 'I have nothing to reward you with now, as you can imagine after all this time getting my liver eaten, but the day will come when I will answer your call and stand by your side, human, that I swear to you. For now, I give you this title - the Liberator!'\n\nGain the "
+  },
+  "7": {
+    "section": 7,
+    "book": 1,
+    "outgoing_refs": [
+      700
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You hold up the sceptre and say, 'I claim this sceptre as my own. It is mine to wield!'\n\n'No...' wails Agamemnon. He staggers, as does his son. The darkness that filled them with energy flows out of them to plunge into the sceptre. Then that darkness, like creeping twilight, seeps from the sceptre t"
+  },
+  "8": {
+    "section": 8,
+    "book": 1,
+    "outgoing_refs": [
+      410,
+      670
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You make your way back up out of the dark without incident, and come to the entrance to Tartarus under the lee of an outcropping of igneous rock that looks like a set of outspread wings, known as the wings of death. Will you head back down the mountain side or go back into the abyssal caverns?\n\nLeav"
+  },
+  "9": {
+    "section": 9,
+    "book": 1,
+    "outgoing_refs": [
+      75,
+      790,
+      816
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [
+      {
+        "op": "has_tickbox",
+        "count": 1
+      },
+      {
+        "op": "tick"
+      },
+      {
+        "op": "check_ticked"
+      }
+    ],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [
+      {
+        "op": "check",
+        "title": "Lion Slayer"
+      }
+    ],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "[TICKBOX]\n\nPut a tick in the box. If there was a tick in the box already goto [**816**](#_816) immediately. If not, read on.\n\n'Ah, welcome back to my workshop,' says Perdix the inventor, murdered nephew of Daedalus.\n\nPerdix, inventor, craftsman, and smelter can perform various tasks for you. If you "
+  },
+  "10": {
+    "section": 10,
+    "book": 1,
+    "outgoing_refs": [
+      75,
+      89,
+      224,
+      298,
+      333,
+      696
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "The city is divided into roughly four quarters or suburbs - the Palace, atop the hill, mostly empty now; Elysium, where the souls of the honoured dead reside; the Asphodel Meadows, where the souls of those who were neither famous nor notorious or those simply unworthy of Elysium reside; and the Mour"
+  },
+  "11": {
+    "section": 11,
+    "book": 1,
+    "outgoing_refs": [
+      471,
+      543,
+      652,
+      714
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [
+      {
+        "op": "has_tickbox",
+        "count": 4
+      },
+      {
+        "op": "tick"
+      }
+    ],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": true,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "[TICKBOX][TICKBOX][TICKBOX][TICKBOX]\n\nPut a tick in one of the boxes. If four boxes are now ticked goto [**471**](#_471) immediately. If not, read on.\n\nYou start sifting through the ash and broken rocks around the base of the volcano. It is said the volcano belches up its lava from the deepest depth"
+  },
+  "12": {
+    "section": 12,
+    "book": 1,
+    "outgoing_refs": [
+      117,
+      226,
+      474,
+      521,
+      673,
+      756
+    ],
+    "codeword_ops": [
+      {
+        "op": "check",
+        "codeword": "Nefarious"
+      },
+      {
+        "op": "check",
+        "codeword": "Nought"
+      },
+      {
+        "op": "check",
+        "codeword": "Nervous"
+      }
+    ],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "If you have the codeword **_Nefarious_** goto [**756**](#_756) immediately. If not, read on.\n\nIf you have the codeword **_Nought_** or **_Nervous_** goto [**673**](#_673) immediately. If not read on.\n\nYou have arrived in a far corner of the underworld, a lost, forgotten corner where there is only a "
+  },
+  "13": {
+    "section": 13,
+    "book": 1,
+    "outgoing_refs": [
+      111
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Ignoring her call, you swim out into the cool, black waters. It is actually quite pleasant on the skin, like swimming in some kind of moisturiser, albeit black. It doesn't even smell that bad. You begin to relax - until something slithers around your waist. And then something else around your throat"
+  },
+  "14": {
+    "section": 14,
+    "book": 1,
+    "outgoing_refs": [
+      111
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You hurl the **shrivelled heart** to one side of the chamber, hoping the maggots will go for it. But to them it is just another piece of rotting flesh, of which they have a surfeit. On the other hand, you are fresh and still living, and the act of throwing the heart has alerted them to your presence"
+  },
+  "15": {
+    "section": 15,
+    "book": 1,
+    "outgoing_refs": [
+      335,
+      586
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You have come to the Lake Cocytus, where you'd left a young woman to her fate after she'd fallen through a hole in the ice. Instead of rescuing her you took her satchel and left. The hole in the ice is still out there. Will you:\n\nGo fishing at the hole goto [**335**](#_335)\n\nLeave this place goto [*"
+  },
+  "16": {
+    "section": 16,
+    "book": 1,
+    "outgoing_refs": [
+      245,
+      375
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [
+      {
+        "attribute": "Charm",
+        "difficulty": 8
+      }
+    ],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "'No, of course I don't know who _you_ are, pitiful mortal wretch,' says the creature in a voice like iron filings scraped down a blackboard, 'but I can tell you who I am - Syna the spiderling, high priestess of this temple, and daughter to Arachne herself!'\n\nShe raises up her blade-tipped forearms, "
+  },
+  "17": {
+    "section": 17,
+    "book": 1,
+    "outgoing_refs": [
+      117,
+      228,
+      474,
+      579
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "This is where Death Dealer, the champion of Thanatos, came for you, but there is no sign of him now. You are travelling on the Sacred Way in the southern parts of Hades. Above you, the endless grey skies blanket the land in a gloomy miasma of despair. From here you can go:\n\nNorth along the road goto"
+  },
+  "18": {
+    "section": 18,
+    "book": 1,
+    "outgoing_refs": [
+      416,
+      616,
+      811
+    ],
+    "codeword_ops": [
+      {
+        "op": "check",
+        "codeword": "Olifant"
+      }
+    ],
+    "tickbox_ops": [
+      {
+        "op": "has_tickbox",
+        "count": 1
+      },
+      {
+        "op": "tick"
+      },
+      {
+        "op": "check_ticked"
+      }
+    ],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "[TICKBOX]\n\nPut a tick in the box. If there was a tick in the box already goto [**811**](#_811) immediately. If not, read on.\n\nThe Garden of Persephone is a desert of black ash, a charred, smouldering ruin. Smoke still twirls up from the burned out pavilion.\n\nSuddenly you are overwhelmed by fatigue. "
+  },
+  "19": {
+    "section": 19,
+    "book": 1,
+    "outgoing_refs": [
+      82
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You take the arrow. 'Thank you,' you say, 'but are you seriously telling me that if I shoot this arrow, it will never reach its target?'\n\n'Try it,' says Xenophanes, 'Let us test the hypothesis!'\n\n'This should be interesting,' says Cleanthes, raising his eyes.\n\nYou nock the arrow to a bow and aim at "
+  },
+  "20": {
+    "section": 20,
+    "book": 1,
+    "outgoing_refs": [
+      160,
+      346,
+      475,
+      493
+    ],
+    "codeword_ops": [
+      {
+        "op": "acquire",
+        "codeword": "Noodles"
+      }
+    ],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "'You did it,' exclaims Helen, 'I can't believe it!' You hand over the **silver seal of Hades**. Cross it off your Adventure Sheet and gain the codeword **_Noodles_**.\n\n'Right then, time to get on with it. I'll find my way to Arcadia. When you are ready, come and look for me near the Wineries of the "
+  },
+  "21": {
+    "section": 21,
+    "book": 1,
+    "outgoing_refs": [
+      168,
+      516
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "There is an old half-rotted rope that runs down into the depths. It seems solid enough, so you inch your way down. Slowly the light dims as you descend. At the bottom, the well is dry but you find some grisly human remains. It appears to be the long dead body of a girl. Judging by the angle of her h"
+  },
+  "22": {
+    "section": 22,
+    "book": 1,
+    "outgoing_refs": [
+      402,
+      787,
+      813
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [
+      {
+        "op": "has_tickbox",
+        "count": 1
+      },
+      {
+        "op": "tick"
+      },
+      {
+        "op": "check_ticked"
+      }
+    ],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "[TICKBOX]\n\nPut a tick in the box. If there was a tick in the box already goto [**813**](#_813) immediately. If not, read on.\n\nYou have been tasked with rescuing Lampeto, one of the daughters of Ares, cursed by the gods to be eaten by Blubberjaw the daemon for all eternity for her crime. Princess Myr"
+  },
+  "23": {
+    "section": 23,
+    "book": 1,
+    "outgoing_refs": [
+      367
+    ],
+    "codeword_ops": [
+      {
+        "op": "acquire",
+        "codeword": "Neveragain"
+      },
+      {
+        "op": "lose",
+        "codeword": "Neverending"
+      },
+      {
+        "op": "lose",
+        "codeword": "Projectile"
+      }
+    ],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [
+      {
+        "op": "gain",
+        "amount": 1
+      }
+    ],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Lose the codewords **_Neverending_** and **_Projectile_**. Gain the codeword **_Neveragain_**.\n\nYou let loose at Wolfshadow as he runs in on you. The arrow hits home unerringly, right between his eyes. With one final whimper, the undead wolf collapses in a heap and slides up to your feet, dead in an"
+  },
+  "24": {
+    "section": 24,
+    "book": 1,
+    "outgoing_refs": [
+      104,
+      111
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": true,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You hack mightily, lopping off limb after limb, but you misjudge one of the bramble beast's attacks and it rakes you across the legs, ripping them open. You fall to the ground.\n\nTick your Wound box.\n\nIf you were wounded already, then this second wound is fatal, and you bleed out in the Garden of Per"
+  },
+  "25": {
+    "section": 25,
+    "book": 1,
+    "outgoing_refs": [
+      38,
+      145,
+      150,
+      412,
+      537,
+      731
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": true,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "If you have the **sceptre of Agamemnon**, roll a die. If you score a 1 or a 2 ?[**150**](#_150); if not, read on.\n\nYou are at the outskirts of the Slimeswamp. You can smell its fetid stink even from here. Will you go:\n\nInto the swamp goto [**38**](#_38)\n\nNorth-west to the Styx goto [**145**](#_145)\n"
+  },
+  "26": {
+    "section": 26,
+    "book": 1,
+    "outgoing_refs": [
+      126,
+      292,
+      376,
+      535
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [
+      {
+        "op": "has_tickbox",
+        "count": 1
+      },
+      {
+        "op": "tick"
+      }
+    ],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [
+      {
+        "attribute": "Grace",
+        "difficulty": 8,
+        "or_attribute": "Strength"
+      }
+    ],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "If you have some **shade warriors** goto [**126**](#_126) immediately. If not, read on.\n\nTwo pale and ghostly figures step out to block your path. They are dressed as hoplite warriors armed with spear and shield but their antique armour is tarnished and dented, their weapons rusty. They are lost sou"
+  },
+  "27": {
+    "section": 27,
+    "book": 1,
+    "outgoing_refs": [
+      72,
+      193
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [
+      {
+        "op": "gain",
+        "title": "Friend of the Ferryman"
+      }
+    ],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "'I have your **gold obols** here, dread lord,' you say. Cross them off your Adventure Sheet.\n\n'Thank you, mortal, that is a relief. She was an impudent thief!'\n\n'A minx indeed,' you reply.\n\n'Caused me all sorts of problems, admin wise. You have no idea what it's like having to keep track of the all "
+  },
+  "28": {
+    "section": 28,
+    "book": 1,
+    "outgoing_refs": [
+      10,
+      241,
+      300
+    ],
+    "codeword_ops": [
+      {
+        "op": "check",
+        "codeword": "Nullify"
+      }
+    ],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": true,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "If you have a **baby in a basket** stored here or on your Adventure Sheet goto [**300**](#_300). If not, read on.\n\nYou are in King Agamemnon's Isle of the Blessed. He has gifted you a rather fine villa in Elysium. It is a lovely spot in the only place in Hades where the sun shines, even if it is a f"
+  },
+  "29": {
+    "section": 29,
+    "book": 1,
+    "outgoing_refs": [
+      208,
+      359
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Something seems off to you. A little pushback might be in order. 'And what if I refuse to pay?' you say.\n\n'Then your soul will wander these shores for a hundred years.'\n\n'But I am not dead,' you reply.\n\n'Bah, You would defy me, the great Charon, son of Nyx? I'll have you chained in the belly of Tart"
+  },
+  "30": {
+    "section": 30,
+    "book": 1,
+    "outgoing_refs": [
+      769
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Terpe greets you with a trill of laughter. She lifts you in her arms and you gaze back into her clear grey eyes which sparkle with frank good humour.\n\n'Put your trust in the Bright Lord, my darling,' she coos in your ear. 'Laurel leaves on your brow will serve better than a battered helm, and beguil"
+  },
+  "31": {
+    "section": 31,
+    "book": 1,
+    "outgoing_refs": [
+      10,
+      157,
+      356,
+      434,
+      692
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Rhadamanthus was right. Amazingly, a long dead warrior-king has launched a coup of sorts and taken over part of Hades. How is that possible? You will have to find out, but first you must find a way to get into Elysium. The guards are numerous and well-armed. You won't be able to just fight your way "
+  },
+  "32": {
+    "section": 32,
+    "book": 1,
+    "outgoing_refs": [
+      262
+    ],
+    "codeword_ops": [
+      {
+        "op": "lose",
+        "codeword": "Niggle"
+      }
+    ],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Lose the codeword **_Niggle_**.\n\nH for the many headed Hydra, E for Elysium, R for Rhea, mother of the gods, A for Acheron, the river of woe-and Zeus loves me? The goddess Hera of course!\n\nAs you say her name, there is a whirring click and the box pops open. Inside rests the sceptre of Agamemnon. It"
+  },
+  "33": {
+    "section": 33,
+    "book": 1,
+    "outgoing_refs": [
+      106,
+      225,
+      832
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [
+      {
+        "op": "has_tickbox",
+        "count": 1
+      },
+      {
+        "op": "tick"
+      },
+      {
+        "op": "check_ticked"
+      }
+    ],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "[TICKBOX]\n\nPut a tick in the box. If there was a tick in the box already goto [**225**](#_225) immediately. If not, read on.\n\nThe great archway has these words written over it:\n\nErebus\n\nThe Halls of Night\n\nYou step into darkness - and are plunged into the blackest night. No torch, nor lamp or lanter"
+  },
+  "34": {
+    "section": 34,
+    "book": 1,
+    "outgoing_refs": [
+      595,
+      722
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [
+      {
+        "attribute": "Strength",
+        "difficulty": 6
+      }
+    ],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Nimbly and, truth be told, with balletic grace, you spin aside. The lamia staggers forward, growling in angry frustration. You nearly gag at the smell of her, but she is off balance - you have the advantage.\n\nYou must fight her. Make a Strength roll at difficulty 6.\n\nSucceed goto [**595**](#_595)\n\nF"
+  },
+  "35": {
+    "section": 35,
+    "book": 1,
+    "outgoing_refs": [
+      280,
+      505,
+      677,
+      737
+    ],
+    "codeword_ops": [
+      {
+        "op": "check",
+        "codeword": "Nought"
+      }
+    ],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "If you have the codewords **_Nervous_** or **_Nought_** goto [**280**](#_280)\n\nIf not, but you have the title **Spider's Bane** goto [**737**](#_737)\n\nIf not, but you have an **iron key** goto [**677**](#_677)\n\nIf you have none of these, read on. You cannot think of any way to smuggle them out. As t"
+  },
+  "36": {
+    "section": 36,
+    "book": 1,
+    "outgoing_refs": [
+      493
+    ],
+    "codeword_ops": [
+      {
+        "op": "acquire",
+        "codeword": "New-Apollo"
+      }
+    ],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [
+      {
+        "op": "lose",
+        "amount": 10
+      }
+    ],
+    "attr_changes": [],
+    "raw_text": "Gain the codeword **_New-Apollo_**.\n\nYou sing a beautiful paean in praise of silver-tongued Apollo, and the altar seems to glow with a golden halo for a moment. You have successfully reconsecrated this shrine, and now you can get blessings here. If you are a worshipper of Apollo, blessings are free."
+  },
+  "37": {
+    "section": 37,
+    "book": 1,
+    "outgoing_refs": [
+      227
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "'Gentlemen, you are philosophers, yes?' you say. They draw themselves up, 'yes indeed, the greatest!' they say.\n\n'Have you heard of the paradox of Zeno's arrow?' you ask.\n\n'Of course we have!'\n\n'Well, I have the very arrow, right here.' You show them the white shafted arrow, with the words _Zeno's a"
+  },
+  "38": {
+    "section": 38,
+    "book": 1,
+    "outgoing_refs": [
+      25,
+      88,
+      643,
+      773
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [
+      {
+        "op": "check",
+        "title": "Spider's Bane"
+      }
+    ],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "If you have the title **Spider's Bane** goto [**88**](#_88) immediately. If not, read on.\n\nThe Slimeswamp is a fetid morass of steaming muck and foul, brackish water. Small strips of impacted mud form pathways through the quagmire. Corpses lie just below the surface, somehow preserved despite the fi"
+  },
+  "39": {
+    "section": 39,
+    "book": 1,
+    "outgoing_refs": [
+      116,
+      732
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [
+      {
+        "op": "has_tickbox",
+        "count": 1
+      },
+      {
+        "op": "tick"
+      },
+      {
+        "op": "check_ticked"
+      }
+    ],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "[TICKBOX]\n\nPut a tick in a box. If there was a tick in the box already goto [**732**](#_732) immediately; otherwise read on.\n\nYou approach the rotting hulk of a once mighty trireme, prow down in the mire of the delta. Though its timbers are encrusted with mud and decay, you can still see its sleek l"
+  },
+  "40": {
+    "section": 40,
+    "book": 1,
+    "outgoing_refs": [
+      84,
+      218
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You enter a large, rough cavern of solid rock, so large its roof is shrouded in shadow. It is lit by the glow of a river of lava that runs along one side, warming up the cave nicely. In the middle is an enormous rock upon which is pinned the body of a giant - the titan Prometheus. His arms and legs "
+  },
+  "41": {
+    "section": 41,
+    "book": 1,
+    "outgoing_refs": [
+      608
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You root through the pile of ash once more and find... more ashes. There is nothing else here. goto [**608**](#_608)"
+  },
+  "42": {
+    "section": 42,
+    "book": 1,
+    "outgoing_refs": [
+      8,
+      429
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "Because you are either heroic or quite possibly very stupid, you have returned to the abyssal depths of Tartarus. The marble plaques on the walls of the cave are still there. They read:\n\n'Only the lost, the stupid, the deranged and the unhinged, the guilty and those whose souls are stained with the "
+  },
+  "43": {
+    "section": 43,
+    "book": 1,
+    "outgoing_refs": [
+      25,
+      51,
+      228,
+      504,
+      537
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": true,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "The bandits pause, looking you over.\n\n'By Hermes's hairy arse, is that... you know?'\n\n'Err... could be..'\n\n'If it is...'\n\n'We're dead meat.'\n\n'Run, lad, run!'\n\nAnd with that the two bandits sprint away. Your reputation precedes you it seems. In their haste to get away, they drop a few coins. Roll a "
+  },
+  "44": {
+    "section": 44,
+    "book": 1,
+    "outgoing_refs": [
+      95,
+      734
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [
+      {
+        "attribute": "Grace",
+        "difficulty": 9
+      }
+    ],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "The heat is blistering, but you hang on near the edge of the river in the hope of salvaging a **lava gem**. You manage to get close enough for a few seconds to make a grab at one. Make a Grace roll at difficulty 9.\n\nSucceed goto [**95**](#_95)\n\nFail goto [**734**](#_734)"
+  },
+  "45": {
+    "section": 45,
+    "book": 1,
+    "outgoing_refs": [
+      678
+    ],
+    "codeword_ops": [
+      {
+        "op": "acquire",
+        "codeword": "Neutralised"
+      }
+    ],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [
+      {
+        "op": "gain",
+        "amount": 100
+      }
+    ],
+    "attr_changes": [],
+    "raw_text": "Mormo finds the **child's doll** in your backpack. She gasps, and picks it up, uttering a strangled sob.\n\n'Oh my children, my dear children,' she says, starting to weep. 'They made me, they made me do it. I'm so sorry, my little ones.'\n\nShe falls to her knees and starts to sob uncontrollably. She ha"
+  },
+  "46": {
+    "section": 46,
+    "book": 1,
+    "outgoing_refs": [
+      111,
+      193,
+      720
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": true,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You try to dodge aside but you are too slow. One claw slams into your chest, the other into the back of your legs and you are brought to the ground with a bone crashing crunch, your chest and legs ripped open.\n\nTick your Wound box. If it was ticked already then this double blow finishes you off, and"
+  },
+  "47": {
+    "section": 47,
+    "book": 1,
+    "outgoing_refs": [
+      10
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You play so beautifully that the warrior shades are entranced. Enchanted in fact, so that they will follow you as your retainers.\n\nNote that you have the **shade warriors (3 uses)** on your Adventure Sheet. They fight for you by adding + 1 to any Strength or Grace rolls but only for your next three "
+  },
+  "48": {
+    "section": 48,
+    "book": 1,
+    "outgoing_refs": [
+      430,
+      554
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "You make your way through the cypress trees until you came to the centre of the island, a wide open space with a heap of ruins at the centre. A mound of earth and rubble at the front looms over a yawning cave opening that has been dug out of the earth.\n\nYou step into the clearing. Something rumbles "
+  },
+  "49": {
+    "section": 49,
+    "book": 1,
+    "outgoing_refs": [
+      51,
+      228,
+      273,
+      364
+    ],
+    "codeword_ops": [],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [
+      {
+        "op": "gain",
+        "title": "Kraken Friend"
+      }
+    ],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "The kraken grabs the food and shoves it into its beak. Then, incredibly, it extends another tentacle and lightly caresses your head before falling back into the river and disappearing.\n\n'Astonishing,' says the bargeman, I've never seen anything like that in all my years, and I have lived - well, unl"
+  },
+  "50": {
+    "section": 50,
+    "book": 1,
+    "outgoing_refs": [
+      103,
+      346,
+      465,
+      493,
+      725
+    ],
+    "codeword_ops": [
+      {
+        "op": "acquire",
+        "codeword": "Nature"
+      },
+      {
+        "op": "check",
+        "codeword": "Nature"
+      },
+      {
+        "op": "check",
+        "codeword": "Nurture"
+      }
+    ],
+    "tickbox_ops": [],
+    "current_location": {
+      "sets": null,
+      "uses_current_loc": false
+    },
+    "stat_rolls": [],
+    "dice_rolls": false,
+    "title_ops": [],
+    "item_checks": [],
+    "glory_ops": [],
+    "wound": false,
+    "scar": false,
+    "money_ops": [],
+    "attr_changes": [],
+    "raw_text": "If you have the codeword **_Nature_** goto [**725**](#_725) immediately. If not, read on.\n\nIf you have the codeword **_Nurture_** goto [**465**](#_465) immediately. If not, read on.\n\nYou walk in through doors that are barely hanging on by their hinges. You are amazed to find the inn is still open. T"
+  }
+}
